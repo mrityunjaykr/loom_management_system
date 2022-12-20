@@ -1,0 +1,745 @@
+1
+<style>
+body {
+    font-family: "Lato", times roman;
+}
+
+.sidenav {
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: white;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+    display: block;
+}
+.main {
+    margin-left: 160px;
+    font-size: 28px; 
+    padding: 0px 10px;
+   }
+
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+}
+<style>
+body {
+    font-family: "Lato", times roman;
+}
+
+.sidenav {
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: white;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+    display: block;
+}
+.main {
+    margin-left: 160px;
+    font-size: 28px; 
+    padding: 0px 10px;
+   }
+
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+}
+ <style>
+  
+            body{
+
+
+             background: lightgrey;
+             margin: 0 auto;
+             font-family: arial;
+            }
+
+            h1{
+
+             color: black;
+             text-align: center;
+            }
+      label{
+
+       color: #777;
+       width: 10%;
+       display: inline-block;
+
+      }
+
+      #container{
+
+
+       padding: 20px;
+       width: 60%;
+       margin: 0 auto;
+       margin-top: 1%;
+       margin-bottom: 1%;
+       background-color: white;
+       background-image:url('11.jpg');       
+background-size: 100%;
+       filter:alpha(opacity=100);
+       text-align:center;
+font-family:times roman;
+      }
+
+   .userinput{
+
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-bottom: 30px;
+
+   }
+   label{
+
+    color: black;
+    font-size: 18px;
+   }
+   textarea{
+ color: black;
+    font-size: 14px;
+
+   }
+
+   select{
+
+    color: black;
+   }
+  
+
+   .sampleBtn{
+      
+       background-color: #f1f1f1;
+       width: 20%;
+       height: 35px;
+       font-size: 16px;
+
+   }
+   .sampleBtn:hover{
+
+          color: white;
+          background-color: brown;
+          cursor: pointer;
+   }
+#A{
+ width:21%;
+}
+ </style>
+</style>
+2
+</style>
+<style>
+body {
+    font-family: "Lato", times roman;
+}
+
+.sidenav {
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: white;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+    display: block;
+}
+.main {
+    margin-left: 160px;
+    font-size: 28px; 
+    padding: 0px 10px;
+   }
+
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+}
+ <style>
+  
+            body{
+
+
+             background: lightgrey;
+             margin: 0 auto;
+             font-family: arial;
+            }
+
+            h1{
+
+             color: black;
+             text-align: center;
+            }
+      label{
+
+       color: #777;
+       width: 10%;
+       display: inline-block;
+
+      }
+
+      #container{
+
+
+       padding: 20px;
+       width: 60%;
+       margin: 0 auto;
+       margin-top: 1%;
+       margin-bottom: 1%;
+       background-color: white;
+       background-image:url('11.jpg');       
+background-size: 100%;
+       filter:alpha(opacity=100);
+       text-align:center;
+font-family:times roman;
+      }
+
+   .userinput{
+
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-bottom: 30px;
+
+   }
+   label{
+
+    color: black;
+    font-size: 18px;
+   }
+   textarea{
+ color: black;
+    font-size: 14px;
+
+   }
+
+   select{
+
+    color: black;
+   }
+  
+
+   .sampleBtn{
+      
+       background-color: #f1f1f1;
+       width: 20%;
+       height: 35px;
+       font-size: 16px;
+
+   }
+   .sampleBtn:hover{
+
+          color: white;
+          background-color: brown;
+          cursor: pointer;
+   }
+#A{
+ width:21%;
+}
+ </style>
+</style>
+3
+<style>
+body {
+    font-family: "Lato", times roman;
+}
+
+.sidenav {
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: white;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+    display: block;
+}
+.main {
+    margin-left: 160px;
+    font-size: 28px; 
+    padding: 0px 10px;
+   }
+
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+}
+ <style>
+  
+            body{
+
+
+             background: lightgrey;
+             margin: 0 auto;
+             font-family: arial;
+            }
+
+            h1{
+
+             color: black;
+             text-align: center;
+            }
+      label{
+
+       color: #777;
+       width: 10%;
+       display: inline-block;
+
+      }
+
+      #container{
+
+
+       padding: 20px;
+       width: 60%;
+       margin: 0 auto;
+       margin-top: 1%;
+       margin-bottom: 1%;
+       background-color: white;
+       background-image:url('11.jpg');       
+background-size: 100%;
+       filter:alpha(opacity=100);
+       text-align:center;
+font-family:times roman;
+      }
+
+   .userinput{
+
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-bottom: 30px;
+
+   }
+   label{
+
+    color: black;
+    font-size: 18px;
+   }
+   textarea{
+ color: black;
+    font-size: 14px;
+
+   }
+
+   select{
+
+    color: black;
+   }
+  
+
+   .sampleBtn{
+      
+       background-color: #f1f1f1;
+       width: 20%;
+       height: 35px;
+       font-size: 16px;
+
+   }
+   .sampleBtn:hover{
+
+          color: white;
+          background-color: brown;
+          cursor: pointer;
+   }
+#A{
+ width:21%;
+}
+ </style>
+</style>
+result
+<style>
+body {
+    font-family: "Lato", times roman;
+}
+
+.sidenav {
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: white;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+    display: block;
+}
+.main {
+    margin-left: 160px;
+    font-size: 28px; 
+    padding: 0px 10px;
+   }
+
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+}
+ <style>
+  
+            body{
+
+
+             background: lightgrey;
+             margin: 0 auto;
+             font-family: arial;
+            }
+
+            h1{
+
+             color: black;
+             text-align: center;
+            }
+      label{
+
+       color: #777;
+       width: 10%;
+       display: inline-block;
+
+      }
+
+      #container{
+
+
+       padding: 20px;
+       width: 60%;
+       margin: 0 auto;
+       margin-top: 1%;
+       margin-bottom: 1%;
+       background-color: white;
+       background-image:url('11.jpg');       
+background-size: 100%;
+       filter:alpha(opacity=100);
+       text-align:center;
+font-family:times roman;
+      }
+
+   .userinput{
+
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-bottom: 30px;
+
+   }
+   label{
+
+    color: black;
+    font-size: 18px;
+   }
+   textarea{
+ color: black;
+    font-size: 14px;
+
+   }
+
+   select{
+
+    color: black;
+   }
+  
+
+   .sampleBtn{
+      
+       background-color: #f1f1f1;
+       width: 20%;
+       height: 35px;
+       font-size: 16px;
+
+   }
+   .sampleBtn:hover{
+
+          color: white;
+          background-color: brown;
+          cursor: pointer;
+   }
+#A{
+ width:21%;
+}
+ </style>
+</style>
+loomup
+<style>
+body {
+    font-family: "Lato", times roman;
+}
+
+.sidenav {
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: white;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+    display: block;
+}
+}
+
+.sidenav  {
+    color: Black;
+}
+
+.main {
+    margin-left: 160px;
+    font-size: 28px; 
+    padding: 0px 10px;
+   }
+
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+}
+ <style>
+  
+            body{
+
+
+             background: white;
+             margin: 0 auto;
+             font-family: arial;
+            }
+
+            h1{
+
+             color: black;
+             text-align: center;
+            }
+      label{
+
+       color: #777;
+       width: 10%;
+       display: inline-block;
+
+      }
+
+      #container{
+
+
+       padding: 20px;
+       width: 60%;
+       margin: 0 auto;
+       margin-top: 1%;
+       margin-bottom: 1%;
+       background-color: white;
+       filter:alpha(opacity=100);
+       text-align:center;
+font-family:times roman;
+      }
+
+   .userinput{
+
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-bottom: 30px;
+
+   }
+   label{
+
+    color: black;
+    font-size: 18px;
+   }
+   textarea{
+ color: black;
+    font-size: 14px;
+
+   }
+
+   select{
+
+    color: black;
+   }
+  
+
+   .sampleBtn{
+      
+       background-color: #f1f1f1;
+       width: 20%;
+       height: 35px;
+       font-size: 16px;
+
+   }
+#A{
+ width:21%;
+}
+ </style>
+</style>
+loom
+<style>
+body {
+    font-family: "Lato", times roman;
+}
+
+.sidenav {
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: white;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+    display: block;
+}
+}
+
+.sidenav  {
+    color: Black;
+}
+
+.main {
+    margin-left: 160px;
+    font-size: 28px; 
+    padding: 0px 10px;
+   }
+
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+}
+ <style>
+  
+            body{
+
+
+             background: white;
+             margin: 0 auto;
+             font-family: arial;
+            }
+
+            h1{
+
+             color: black;
+             text-align: center;
+            }
+      label{
+
+       color: #777;
+       width: 10%;
+       display: inline-block;
+
+      }
+
+      #container{
+
+
+       padding: 20px;
+       width: 60%;
+       margin: 0 auto;
+       margin-top: 1%;
+       margin-bottom: 1%;
+       background-color: white;
+       filter:alpha(opacity=100);
+       text-align:center;
+font-family:times roman;
+      }
+
+   .userinput{
+
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-bottom: 30px;
+
+   }
+   label{
+
+    color: black;
+    font-size: 18px;
+   }
+   textarea{
+ color: black;
+    font-size: 14px;
+
+   }
+
+   select{
+
+    color: black;
+   }
+  
+
+   .sampleBtn{
+      
+       background-color: #f1f1f1;
+       width: 20%;
+       height: 35px;
+       font-size: 16px;
+
+   }
+#A{
+ width:21%;
+}
+ </style>
+</style>
